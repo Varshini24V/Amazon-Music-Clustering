@@ -35,7 +35,8 @@ name_artists, popularity_artists
 
 🔹 K-Means Clustering
 
-    K-Means is used to partition the dataset into distinct clusters, grouping songs with similar audio patterns. The optimal number of clusters is determined using:
+    K-Means is used to partition the dataset into distinct clusters, grouping songs with similar audio patterns. 
+    The optimal number of clusters is determined using:
 
       Elbow Method
       Silhouette Score
